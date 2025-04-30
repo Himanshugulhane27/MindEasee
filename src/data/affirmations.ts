@@ -1,0 +1,17 @@
+export const affirmations = [
+  "I am worthy of love and respect.",
+  "I trust my journey and embrace the path I'm on.",
+  "I am resilient and can overcome any challenge.",
+  "I choose peace over worry and faith over fear.",
+  "My potential is limitless, and opportunities are abundant.",
+  "I have the power to create positive change in my life.",
+  "I release all that no longer serves me.",
+  "I am enough exactly as I am right now.",
+  "I deserve to take care of myself and prioritize my wellbeing.",
+  "Every day I am growing stronger and healthier.",
+  "I am capable of handling whatever comes my way.",
+  "I attract positive energy and radiate it to others.",
+  "My mind is calm, my body is strong, and my heart is at peace.",
+  "I am grateful for the simple joys in my everyday life.",
+  "I honor my needs and respect my boundaries.",
+];
